@@ -1,4 +1,4 @@
-Hi, I’m @RaissaKrupek
+Hi, I’m Raissa Krupek 👩🏻‍💻
 
 - 🌱 I’m an undergraduate student in Agronomic Engineering at ESALQ/USP;
 - 🧬 I’m currently doing scientific initiation in the Statistical Genetics laboratory with Prof. Dr. Antonio Augusto F. Garcia;

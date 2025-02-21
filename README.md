@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Raissa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Raissa-Rstudio" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Raissa-Shiny" height="30" width="40" src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png">
-  <img align="center" alt="Raissa-ggplot2" height="30" width="40" src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png">
-  <img align="center" alt="Raissa-Quarto" height="30" width="50" src="https://quarto.org/quarto.png">
+  <img align="center" alt="Raissa-Shiny" height="40" width="40" src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png">
+  <img align="center" alt="Raissa-ggplot2" height="40" width="40" src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png">
+  <img align="center" alt="Raissa-Quarto" height="30" width="70" src="https://quarto.org/quarto.png">
 
 
    

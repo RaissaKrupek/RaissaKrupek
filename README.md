@@ -1,4 +1,4 @@
-#### Hi, I’m Raissa Krupek 👩🏻‍💻
+### Hi, I’m Raissa Krupek 👩🏻‍💻
 
 - 🌱 I’m an undergraduate student in Agronomic Engineering at ESALQ/USP;
 - 🧬 I’m currently doing scientific initiation in the Statistical Genetics laboratory with Prof. Dr. Antonio Augusto F. Garcia;
@@ -8,8 +8,6 @@
 RaissaKrupek/RaissaKrupek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaissaKrupek&show_icons=true&theme=radical)
 

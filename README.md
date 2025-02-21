@@ -22,8 +22,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original
   <img align="center" alt="Raissa-Shiny" height="30" width="40" src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png">
   <img align="center" alt="Raissa-ggplot2" height="30" width="40" src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/man/figures/logo.png">
   <img align="center" alt="Raissa-Golem" height="30" width="40" src="https://avatars.githubusercontent.com/u/45250831?s=200&v=4">
-  <img align="center" alt="Raissa-Quarto" height="30" width="40" src="https://quarto.org/assets/quarto-logo.png">
+  <img align="center" alt="Raissa-Quarto" height="30" width="40" src="https://quarto.org/docs/get-started/hello/logo.png">
   <img align="center" alt="Raissa-Sommer" height="30" width="40" src="https://www.r-project.org/logo/Rlogo.png">
+
 
 
 

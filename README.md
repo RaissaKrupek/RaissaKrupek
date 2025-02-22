@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Raissa-Shiny" height="35" width="35" src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png">
   <img align="center" alt="Raissa-Quarto" height="30" width="100" src="https://quarto.org/quarto.png">
-  <img align="center" alt="Raissa-Canva" height="35" width="35" src="https://images.app.goo.gl/pSZVEwdkcFe8p2Qi7">
+  <img align="center" alt="Raissa-Canva" height="35" width="35" src="">
+<img align="center" alt="Canva Logo" height="30" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_logo.svg/2560px-Canva_logo.svg.png">
 
 
    

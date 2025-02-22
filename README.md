@@ -2,6 +2,7 @@
 
 - 🌱 I’m an undergraduate student in Agronomic Engineering at ESALQ/USP;
 - 🧬 I’m currently doing scientific initiation in the Statistical Genetics laboratory with Prof. Dr. Antonio Augusto F. Garcia;
+- Secretariat Committee Coordinator of the Genetics and Plant Breeding Group “Prof. Roland Vencovsky” (GVENCK)
 - 📊 I’m currently working on developing a software that performs genetic and statistical analysis.
 
 <!---

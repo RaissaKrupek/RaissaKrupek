@@ -24,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original
   <img align="center" alt="Raissa-Quarto" height="30" width="100" src="https://quarto.org/quarto.png">
    
 
--![Snake animation](https://github.com/RaissaKrupek/RaissaKrupek/blob
+![Snake animation](https://github.com/RaissaKrupek/RaissaKrupek/blob
 /6fe4b955501233ebb2257cbc4bf8d1edeaefc317/cobrinha.yml)
 
    

@@ -22,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original
   <img align="center" alt="Raissa-Shiny" height="35" width="35" src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png">
   <img align="center" alt="Raissa-Quarto" height="30" width="100" src="https://quarto.org/quarto.png">
   <img align="center" alt="Raissa-Canva" height="35" width="35" src="">
-<img align="center" alt="Canva Logo" height="30" width="100" src="https://static.canva.com/static/images/canva-logo.png">
+
 
 
    

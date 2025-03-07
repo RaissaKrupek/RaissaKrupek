@@ -10,8 +10,11 @@ RaissaKrupek/RaissaKrupek is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center"
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaissaKrupek&show_icons=true&theme=radical)
 
+
+<div align="center"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaKrupek&hide_progress=true&theme=radical)](https://github.com/RaissaKrupek/github-readme-stats)
  
 

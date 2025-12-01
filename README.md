@@ -1,9 +1,10 @@
 ### Hi, I’m Raissa Krupek 👩🏻‍💻
 
 - 🌱 I’m an undergraduate student in Agronomic Engineering at ESALQ/USP;
-- 🧬 I’m currently doing scientific initiation in the Statistical Genetics laboratory with Prof. Dr. Antonio Augusto F. Garcia;
-- 📋 I'm the secretariat committee coordinator of the Genetics and Plant Breeding Group “Prof. Roland Vencovsky” (GVENCK)
-- 📊 I’m currently working on developing a software that performs genetic and statistical analysis.
+- 🎓 Student Intern at the University of Florida (UF), part of the Blueberry Breeding and Genomics Lab, under the supervision of Professor Patricio Muñoz and Felipe Ferrao;
+- 🧬 Conducted Scientific Initiation at the Statistical Genetics Laboratory (StatGen) under the guidance of Prof. Dr. Antonio Augusto Franco Garcia;
+- 📋 Former member of the "Genetics and Plant Breeding Group 'Prof. Roland Vencovsky'" (GVENCK) at ESALQ/USP as the secretariat committee coordinator;
+
 
 <!---
 RaissaKrupek/RaissaKrupek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ### Hi, I’m Raissa Krupek 👩🏻‍💻
 
 - 🌱 I’m an undergraduate student in Agronomic Engineering at ESALQ/USP;
-- 🎓 Student Intern at the University of Florida (UF), part of the Blueberry Breeding and Genomics Lab, under the supervision of Professor Patricio Muñoz and Felipe Ferrao;
+- 🎓 Student Intern at the University of Florida (UF), part of the Blueberry Breeding and Genomics Lab, under the supervision of Professor Patricio Muñoz and Felipe Ferrão;
 - 🧬 Conducted Scientific Initiation at the Statistical Genetics Laboratory (StatGen) under the guidance of Prof. Dr. Antonio Augusto Franco Garcia;
 - 📋 Former member of the "Genetics and Plant Breeding Group 'Prof. Roland Vencovsky'" (GVENCK) at ESALQ/USP as the secretariat committee coordinator;
 
